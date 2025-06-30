@@ -115,4 +115,5 @@ frontend/
 
 - **backend/**: Contains the Spring Boot application.
 - **frontend/**: Contains the Next.js application.
+<img width="1457" alt="image" src="https://github.com/user-attachments/assets/125e21b8-5b75-47f4-9f6c-7592d7b9f338" />
 
